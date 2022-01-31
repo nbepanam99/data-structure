@@ -28,7 +28,7 @@ List*            Queue*           Set*                Map*
  !                !               │
  !                !               │
  └─Vector        ArrayDeque      SortedSet*
-                                  ▲
-                                  !
+    ▲                             ▲
+    |                             !
    Stack                         TreeSet
 ```
