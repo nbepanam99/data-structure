@@ -1,5 +1,7 @@
 # data-structure.
 
+## the Collection hierarchy in Java
+
 ```
                Iterable*                                  *Interface
                    ▲
@@ -32,3 +34,4 @@ List*            Queue*           Set*                Map*
     |                             !
    Stack                         TreeSet
 ```
+
