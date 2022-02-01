@@ -15,13 +15,13 @@ List*            Queue*           Set*                Map*
  !               │                │ !-HashSet         !    ▲
  !               │                │ !                 !    !
  !               │                │ !                 !   TreeMap
- !─ArrayList     │                │ !                 !
+ !--ArrayList    │                │ !                 !
  !               │                │ └-LinkedHashSet   !
  !               Deque*           │                   !
  !                ▲               │                   !
  !                !               │                   !─HashMap
  !                !               │                   !
- !─LinkedList-----!               │                   !
+ !--LinkedList----!               │                   !
  !                !               │                   !
  !                !               │                   └─HashTable
  !                !               │
