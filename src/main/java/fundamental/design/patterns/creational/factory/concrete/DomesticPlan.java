@@ -1,4 +1,4 @@
-package fundamental.design.patterns.creational.factory;
+package fundamental.design.patterns.creational.factory.concrete;
 
 public class DomesticPlan  extends Plan{
     //@override
