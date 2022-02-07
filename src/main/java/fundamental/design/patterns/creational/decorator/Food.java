@@ -1,4 +1,9 @@
 package fundamental.design.patterns.creational.decorator;
 
-public class Food {
+public interface Food {
+
+    public String prepareFood();
+
+    public double foodPrice();
+
 }
