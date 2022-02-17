@@ -82,3 +82,8 @@ List*            Queue*           Set*                Map*
 |             |  Object first()                       |  Return the first element currently in the sorted set.                                         |
 |             |  Object last()                        |  Return the last element currently in the sorted set.                                          |
 |             |  int size()                           |  Return the number of elements in the set.                                                     |
+
+
+
+# Clean Code
+src: https://manifesto.softwarecraftsmanship.org/
