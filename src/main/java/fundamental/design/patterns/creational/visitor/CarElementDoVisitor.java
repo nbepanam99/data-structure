@@ -7,7 +7,7 @@ public class CarElementDoVisitor implements CarElementVisitor{
     }
 
     public void visit(Engine engine) {
-        System.out.println("Starting my engine");
+        System.out.println("Starting my engine type : " + engine.getType());
     }
     public void visitCar(Car car) {
         System.out.println("\nStarting my car");
