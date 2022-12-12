@@ -1,7 +1,7 @@
-package fundamental.design.patterns.creational.factory.abstracts;
+package fundamental.design.patterns.creational.factory.abstracts.bank.example;
 
-import fundamental.design.patterns.creational.factory.abstracts.bank.Bank;
-import fundamental.design.patterns.creational.factory.abstracts.loan.Loan;
+import fundamental.design.patterns.creational.factory.abstracts.bank.example.bank.Bank;
+import fundamental.design.patterns.creational.factory.abstracts.bank.example.loan.Loan;
 
 import java.io.BufferedReader;
 import java.io.IOException;

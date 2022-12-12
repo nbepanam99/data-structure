@@ -21,7 +21,7 @@ public class GenerateBill {
         int units=Integer.parseInt(br.readLine());
 
         Plan p = planFactory.getPlan(planId);
-        //call getRate() method and calculateBill()method of DomesticPaln.
+        //call getRate() method and calculateBill()method of DomesticPlan.
 
         System.out.print("Bill amount for "+planId+" of  "+units+" units is: ");
         p.getRate();

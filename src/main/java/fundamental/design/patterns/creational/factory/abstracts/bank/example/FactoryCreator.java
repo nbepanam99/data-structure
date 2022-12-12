@@ -1,4 +1,4 @@
-package fundamental.design.patterns.creational.factory.abstracts;
+package fundamental.design.patterns.creational.factory.abstracts.bank.example;
 
 public class FactoryCreator {
     public static AbstractFactory getFactory(String choice){

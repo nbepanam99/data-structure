@@ -32,7 +32,6 @@ public class ComparatorMain {
             System.out.println("-- name : " +user.getName() + ", age : " + user.getAge());
         }
 
-
     }
 
 }

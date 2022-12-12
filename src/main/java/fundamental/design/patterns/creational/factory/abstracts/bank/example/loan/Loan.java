@@ -1,4 +1,4 @@
-package fundamental.design.patterns.creational.factory.abstracts.loan;
+package fundamental.design.patterns.creational.factory.abstracts.bank.example.loan;
 
 public abstract class Loan{
     protected double rate;

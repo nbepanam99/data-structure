@@ -1,6 +1,4 @@
-package fundamental.design.patterns.creational.factory.abstracts.bank;
-
-import fundamental.design.patterns.creational.factory.abstracts.bank.Bank;
+package fundamental.design.patterns.creational.factory.abstracts.bank.example.bank;
 
 public class SBI implements Bank {
     private final String BNAME;
