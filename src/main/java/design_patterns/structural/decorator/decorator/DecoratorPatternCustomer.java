@@ -1,4 +1,4 @@
-package design_patterns.creational.decorator;
+package design_patterns.structural.decorator.decorator;
 
 import java.io.BufferedReader;
 import java.io.IOException;

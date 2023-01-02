@@ -1,4 +1,4 @@
-package design_patterns.creational.decorator;
+package design_patterns.structural.decorator.decorator;
 
 public abstract class FoodDecorator implements Food{
 

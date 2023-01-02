@@ -1,6 +1,8 @@
 package fundamental.generics;
 
-public class Printer <T> {
+import java.io.Serializable;
+
+public class Printer <T extends Animal & Serializable> {
 
     T thingToPrint;
 
